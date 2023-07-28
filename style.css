@@ -1,0 +1,14 @@
+section .l1 .l2 .l3 div :hover
+ {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px red blue;
+ }
+ section .l1 .l2 .l3 div 
+ {
+    font-family: 'Times New Roman', Times, serif;
+ }
+h5
+{
+   color: white;
+}
+ 
